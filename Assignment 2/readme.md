@@ -6,6 +6,7 @@ The objective is to train an RNN-based model (Simple RNN, LSTM, or GRU) on three
 
 Dataset
 The training data consists of the following books from Project Gutenberg:
+
 Crime and Punishment by Fyodor Dostoevsky (Crime.txt)
 
 
