@@ -1,5 +1,3 @@
-.
-
 # **AI Programming Assignments**
 
 This repository contains machine learning and deep learning projects completed for the AI Programming (MBAI 5310G) course at Ontario Tech University. It covers a range of techniques, including regression, classification, and natural language generation using Deep Neural Networks (DNN) and Recurrent Neural Networks (RNN).
